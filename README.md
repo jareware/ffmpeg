@@ -1,4 +1,4 @@
-# ffmpeg
+# jareware/ffmpeg
 
 Docker-wrapper for `ffmpeg` from the [Ubuntu Multimedia packages](https://launchpad.net/~mc3man/+archive/ubuntu/trusty-media), with proper tags, convenient entrypoint, and one special location within the container:
 
